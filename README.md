@@ -62,7 +62,7 @@ Download the latest APK from here:
 
 1. Clone the repository
    ```
-   git clone https://github.com/hitankshah/agriculture-project.git
+   https://github.com/hitankshah/Agriculture-App
    ```
 
 2. Install dependencies
